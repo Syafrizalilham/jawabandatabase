@@ -1,0 +1,1 @@
+alter table provinces rename to provinsi;

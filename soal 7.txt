@@ -1,0 +1,1 @@
+elect desa.district_id, desa.name, provinsi.name from desa, provinsi where provinsi.name = 'aceh' limit 8;

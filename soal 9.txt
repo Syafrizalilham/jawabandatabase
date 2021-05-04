@@ -1,0 +1,1 @@
+select kabupaten_kota.id, kabupaten_kota.name, replace (provinsi.name, provinsi.name, 'ACEH') AS provinsi from kabupaten_kota, provinsi where kabupaten_kota.name = 'kabupaten simeulue' limit 17;

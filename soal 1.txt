@@ -1,0 +1,3 @@
+create muhammad_ilham;
+use muhammad_ilham;
+source C:/Users/ilham/Desktop/ppm x niomic/database/indonesia.sql;

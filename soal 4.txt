@@ -1,0 +1,1 @@
+alter table regencies rename to kabupaten_kota;

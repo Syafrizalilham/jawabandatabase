@@ -1,0 +1,1 @@
+select kecamatan.regency_id, kecamatan.name, replace(provinsi.name, provinsi.name, 'ACEH') AS provinsi from kecamatan, provinsi where kecamatan.name = 'teupah selatan' limit 13;

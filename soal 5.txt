@@ -1,0 +1,1 @@
+alter table districts rename to kecamatan;

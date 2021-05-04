@@ -1,0 +1,1 @@
+alter table villages rename to desa;
